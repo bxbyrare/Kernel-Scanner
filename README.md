@@ -1,5 +1,3 @@
-
-
 ![Logo](https://raw.githubusercontent.com/bxbyrare/Kernel-Scanner/main/iconpng)
 # KERNEL SCANNER v1.0
 
@@ -38,6 +36,12 @@ Para garantir a segurança do algoritmo original, o código fonte não está dis
 
 ---
 
+## 📖 Documentação Detalhada
+Para um guia completo de instalação, dependências e descrição de cada módulo, acesse:
+👉 [**GUIA DE DOCUMENTAÇÃO (DOCUMENTATION.MD)**](https://github.com/bxbyrare/Kernel-Scanner/blob/main/DOCUMENTATION.md)
+
+---
+
 ## 🎨 Design & Estética
 O Kernel Scanner foi construído com foco na experiência do usuário via terminal:
 - **Esquema de Cores:** Branco, Vermelho e Cinza Escuro (Estilo Hacker/Underground).
@@ -51,4 +55,4 @@ Este software foi criado exclusivamente para fins educacionais e testes de penet
 
 ---
 
-**Siga no Discord para atualizações:** `@x64kernel` 💀🔥
+**Qualquer dúvida contate no discord:** `@x64kernel` 💀🔥
