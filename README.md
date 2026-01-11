@@ -1,6 +1,6 @@
 # 💀 KERNEL SCANNER v1.0
 
-![Logo](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/icon.png)
+![Logo](https://raw.githubusercontent.com/bxbyrare/Kernel-Scanner/main/iconpng)
 
 > **[ FEITO POR X64 ]**  
 > **[ DISCORD: @x64kernel ]**
@@ -30,7 +30,7 @@ O **Kernel Scanner** é uma ferramenta de auditoria de segurança e ataque avan�
 
 Para garantir a segurança do algoritmo original, o código fonte não está disponível publicamente. Siga os passos abaixo para baixar e rodar:
 
-1. Vá até a aba [**Releases**](https://github.com/seu-usuario/seu-repositorio/releases) do lado direito desta página.
+1. Vá até a aba [**Releases**](https://github.com/bxbyrare/Kernel-Scanner/releases) do lado direito desta página.
 2. Baixe a versão mais recente do arquivo `KernelScanner_v1.exe`.
 3. Execute o programa (é recomendado rodar como Administrador para o Port Scan funcionar perfeitamente).
 4. Digite a URL do alvo e escolha o módulo de ataque desejado.
