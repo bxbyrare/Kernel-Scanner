@@ -1,6 +1,7 @@
-# 💀 KERNEL SCANNER v1.0
+
 
 ![Logo](https://raw.githubusercontent.com/bxbyrare/Kernel-Scanner/main/iconpng)
+# KERNEL SCANNER v1.0
 
 > **[ FEITO POR X64 ]**  
 > **[ DISCORD: @x64kernel ]**
